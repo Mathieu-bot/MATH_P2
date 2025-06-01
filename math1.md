@@ -179,15 +179,18 @@ total = compte + centime  # Résultat: inchangé si la précision est limitée
 
 ## 📺 Vidéos YouTube
 
-### Représentation binaire et nombres à virgule flottante
-- [Comprendre les nombres en virgule flottante (IEEE 754)](https://www.youtube.com/watch?v=8afbTaA-gOQ) - Explication visuelle de la norme IEEE 754
-- [Conversion décimal → binaire expliquée](https://www.youtube.com/watch?v=rsxT4FfRBaM) - Méthode pas à pas avec exemples
-- [Pourquoi 0.1 + 0.2 ≠ 0.3 en informatique](https://www.youtube.com/watch?v=PZRI1IfStY0) - Explique les erreurs d'arrondi avec des animations
+### 🇫🇷 Ressources en français
+- [Système binaire : Comment ça marche ?](https://www.youtube.com/watch?v=_UZKA5akFbY) - Explication simple du système binaire
+- [Convertir Décimal en Binaire](https://www.youtube.com/watch?v=97LRLM5Je9g) - Méthode claire avec exemples détaillés
+- [Les nombres flottants (IEEE-754)](https://www.youtube.com/watch?v=SFkrqt8fGRs) - Tout comprendre sur la norme IEEE-754 en français
+- [Virgule flottante et erreurs de précision](https://www.youtube.com/watch?v=LKcXP25C_Gw) - Explications sur les erreurs d'arrondis
+- [Pourquoi 0.1+0.2 ≠ 0.3](https://www.youtube.com/watch?v=CDYiwshriWA) - Démonstration en français du problème
+- [Cours complet: Représentation des nombres](https://www.youtube.com/watch?v=HeuxINp2-Vg) - Formation complète sur les systèmes numériques
 
-### Problèmes de calcul numérique
-- [Overflow et Underflow expliqués simplement](https://www.youtube.com/watch?v=j28ajIu_L4U) - Avec des exemples concrets
-- [L'annulation catastrophique en 5 minutes](https://www.youtube.com/watch?v=VLGuiZ8MFIE) - Démonstration visuelle du problème
-- [Précision numérique et erreurs en informatique](https://www.youtube.com/watch?v=PZRI1IfStY0) - Couvre tous les problèmes de calcul
+### 🇬🇧 Ressources en anglais
+- [How Computers Represent Numbers](https://www.youtube.com/watch?v=1GSjbWt0c9M) - Explication visuelle très claire
+- [IEEE-754 Floating Point Standard](https://www.youtube.com/watch?v=RuKkePyo9zk) - Détails de la norme
+- [Why Computers are Bad at Algebra](https://www.youtube.com/watch?v=pQs_wx8eoQ8) - Les problèmes de calcul numérique expliqués
 
 ## 🌐 Documentation et sites web
 
