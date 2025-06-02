@@ -1,0 +1,21 @@
+{
+  "name": "math",
+  "version": "1.0.0",
+  "description": "",
+  "main": "numberToBinary.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mathieu-bot/MATH_P2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/Mathieu-bot/MATH_P2/issues"
+  },
+  "homepage": "https://github.com/Mathieu-bot/MATH_P2#readme"
+}
