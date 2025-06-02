@@ -1,0 +1,1 @@
+export const numberToBinary = (n) => n.toString(2);
