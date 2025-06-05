@@ -87,7 +87,7 @@ Donc 3^1515 ≡ 3^3 ≡ 2 (mod 5)
 
 ## 🔢 Exercice 2: Système de numération
 
-### Question 1: Conversion de 110₂ en base 10
+### Question 1: Conversion de 110₂ en base 10        
 
 ```markdown
 💡 Méthode: Pour convertir du binaire au décimal, on multiplie chaque bit par la puissance de 2 correspondant à sa position.
@@ -168,7 +168,7 @@ B = 11^5 mod 251
 ```
 
 **Étape 3:** Alice calcule la clé secrète
-
+ 
 ```
 K_Alice = B^a mod p
        = 116^6 mod 251
@@ -182,7 +182,7 @@ K_Bob = A^b mod p
       = 71^5 mod 251
       = 246
 ```
-
+  
 **Résultat:** La clé commune est **246**.
 
 ## 🧮 Exercice 4: Les flottants
