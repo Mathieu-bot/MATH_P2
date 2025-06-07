@@ -49,7 +49,7 @@
 **Solution:**
 
 ```
-Étape 1: Calculons 1977 mod 13
+Étape 1: aaCalculons 1977 mod 13
 1977 = 152 × 13 + 1
 Donc 1977 ≡ 1 (mod 13)
 
@@ -111,7 +111,7 @@ Donc 3^1515 ≡ 3^3 ≡ 2 (mod 5)
 ```
 110110₂ = 1×2⁵ + 1×2⁴ + 0×2³ + 1×2² + 1×2¹ + 0×2⁰
         = 1×32 + 1×16 + 0×8 + 1×4 + 1×2 + 0×1
-        = 32 + 16 + 0 + 4 + 2 + 0
+        = 32 + 16 + 0 + 4 + 2 + 0                                                                 
         = 54₁₀
 ```
 
@@ -156,7 +156,7 @@ Donc 3^1515 ≡ 3^3 ≡ 2 (mod 5)
 ```
 A = 11^6 mod 251
   = 1771561 mod 251
-  = 71
+  = 3
 ```
 
 **Étape 2:** Bob calcule B = g^b mod p
@@ -164,26 +164,26 @@ A = 11^6 mod 251
 ```
 B = 11^5 mod 251
   = 161051 mod 251
-  = 116
+  = 160
 ```
 
 **Étape 3:** Alice calcule la clé secrète
  
 ```
 K_Alice = B^a mod p
-       = 116^6 mod 251
-       = 246
+       = 160^6 mod 251
+       = 243
 ```
 
 **Étape 4:** Bob calcule la clé secrète
 
 ```
 K_Bob = A^b mod p
-      = 71^5 mod 251
-      = 246
+      = 3^5 mod 251
+      = 243
 ```
   
-**Résultat:** La clé commune est **246**.
+**Résultat:** La clé commune est **243**.
 
 ## 🧮 Exercice 4: Les flottants
 
