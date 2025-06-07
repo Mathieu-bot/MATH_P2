@@ -112,7 +112,7 @@ Nombres premiers: 2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31...
 23 mod 5 = 3 (car 23 = 5 × 4 + 3)
 ```
 
-#### Applications en cryptographie
+#### Applications en cryptographie 
 ```
 - L'arithmétique modulaire permet de travailler dans un "univers fini"
 - Propriétés intéressantes: (a × b) mod n = [(a mod n) × (b mod n)] mod n
@@ -165,7 +165,7 @@ Exemple pour 5^117 mod 19:
 - Bit 1: résultat = 11² × 5 = 605 ≡ 17 mod 19
 - Bit 0: résultat = 17² = 289 ≡ 4 mod 19
 - Bit 1: résultat = 4² × 5 = 80 ≡ 4 mod 19
-- Bit 0: résultat = 4² = 16 mod 19
+- Bit 0: résultat = 4² = 16 mod 19 
 - Bit 1: résultat = 16² × 5 = 1280 ≡ 1 mod 19
 
 Donc 5^117 ≡ 1 (mod 19)
